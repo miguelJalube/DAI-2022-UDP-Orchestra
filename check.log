@@ -1,0 +1,27 @@
+origin	https://github.com/miguelJalube/DAI-2022-UDP-Orchestra.git (fetch)
+origin	https://github.com/miguelJalube/DAI-2022-UDP-Orchestra.git (push)
+upstream	https://github.com/HEIGVD-Course-DAI/DAI-2022-UDP-Orchestra.git (fetch)
+upstream	https://github.com/HEIGVD-Course-DAI/DAI-2022-UDP-Orchestra.git (push)
+Starting auditor container "daf2026d089c0f3976743f1a5d1e83a4250a673ab5e20283f90301c2d57a93e7"
+Starting auditor container "24c08a64634e9742c810080295484724eea4b406bded23381e67c183da07930d"
+Starting auditor container "ca7afff8abced4b48a68d543ee4cb3c4fb4296bbdc9ad3975eb127add315f602"
+Starting auditor container "9b3ba761ee359cb0a0051bd129f319aacfccafe5828999e2d00f0467fb635d22"
+Starting auditor container "b11945216644111c5588cac82d3181318388ea12ee0245d7f8584386e9335963"
+Starting auditor container "9b487639fed3612d6afc6905e115114d7412a83c10d98a2c4d16ae5e3787844a"
+Starting auditor container "20b68b2c0158e2d2ea1a49e3b8e5ce63923f51491ad63b3732655089a361909f"
+Starting auditor container "4b8f287b38578349e6a92ee57284cf56d3b46b7b6ad0a12b85115ad43de760b3"
+Starting auditor container "0ea7adf1bab4bee4a1d4b866d4089babbb7e3740b88ad634e80748b76f3fcec5"
+Starting auditor container "14c30b695716327158d4fd8bcc36ddecc8a62185cc0e236a3729aaa0d798129f"
+Starting auditor container "4a5dbc89156cdb319b0ba5f05439f38c69a77b14c43aceca11a0d6a8a41826e8"
+11 containers have been started.
+ca7afff8abced4b48a68d543ee4cb3c4fb4296bbdc9ad3975eb127add315f602 : index.js,piano
+14c30b695716327158d4fd8bcc36ddecc8a62185cc0e236a3729aaa0d798129f : index.js,piano
+daf2026d089c0f3976743f1a5d1e83a4250a673ab5e20283f90301c2d57a93e7 : index.js,trumpet
+4b8f287b38578349e6a92ee57284cf56d3b46b7b6ad0a12b85115ad43de760b3 : index.js,piano
+0ea7adf1bab4bee4a1d4b866d4089babbb7e3740b88ad634e80748b76f3fcec5 : index.js,trumpet
+20b68b2c0158e2d2ea1a49e3b8e5ce63923f51491ad63b3732655089a361909f : index.js,piano
+9b3ba761ee359cb0a0051bd129f319aacfccafe5828999e2d00f0467fb635d22 : index.js,trumpet
+9b487639fed3612d6afc6905e115114d7412a83c10d98a2c4d16ae5e3787844a : index.js,flute
+24c08a64634e9742c810080295484724eea4b406bded23381e67c183da07930d : index.js,flute
+b11945216644111c5588cac82d3181318388ea12ee0245d7f8584386e9335963 : index.js,violin
+4a5dbc89156cdb319b0ba5f05439f38c69a77b14c43aceca11a0d6a8a41826e8 : index.js
